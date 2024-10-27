@@ -20,8 +20,9 @@ body {
 
 .thumbnail-container {
   display: flex;
-  flex-wrap: wrap;
+  /* flex-wrap: wrap; */
   gap: 10px;
+  overflow-x: auto;
   /* background-color: aqua; */
 }
 
@@ -72,4 +73,10 @@ body {
 
 .navbar-link:hover {
   color: #8b3030;
+}
+
+@media screen and (max-width: 768px) {
+    .navbar {
+        padding: 20px 10px;
+    }
 }

@@ -62,7 +62,7 @@ const Product = () => {
   return (
     <Grid
       style={{ background: "" }}
-      columns={"2"}
+      columns={{initial: "1", md: '2'}}
       gap="3"
       rows="repeat(2, auto)"
     >
