@@ -5,11 +5,11 @@
   "price": 200,
   "colors": ["blue", "green", "red", "yellow"],
   "images": [
-    "/src/assets/product/photo-1542291026-7eec264c27ff.png",
-    "/src/assets/product/photo-1548801133-da353ebb1d97.png",
-    "/src/assets/product/photo-1600185365483-26d7a4cc7519.png",
-    "/src/assets/product/photo-1600185365778-7875a359b924.png",
-    "/src/assets/product/photo-1600185365926-3a2ce3cdb9eb.png"
+    "/product/photo-1542291026-7eec264c27ff.png",
+    "/product/photo-1548801133-da353ebb1d97.png",
+    "/product/photo-1600185365483-26d7a4cc7519.png",
+    "/product/photo-1600185365778-7875a359b924.png",
+    "/product/photo-1600185365926-3a2ce3cdb9eb.png"
   ],
   "features": [
     "High-quality leather upper'",
