@@ -178,15 +178,17 @@ const Product = () => {
                   onChange={(e) => handleChangeNumber(e.target.value)}
                 />
               )}
-
-              <Text as="div" className="flex-list">
-                {productData?.features.map((i) => (
-                  <Text weight={"medium"} size={"1"} as="p">
-                    {i}
-                  </Text>
-                ))}
-              </Text>
             </div>
+            <Text mt={"9"}>
+              <Text as="label" weight={"bold"}>
+                Specification
+              </Text>
+              <ul className="flex-list">
+                {productData?.features.map((i) => (
+                  <li>{i}</li>
+                ))}
+              </ul>
+            </Text>
           </Box>
         </Container>
       </Box>

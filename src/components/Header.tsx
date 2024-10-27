@@ -3,7 +3,7 @@ import React from "react";
 import { useCartStore } from "../store";
 
 const Header = () => {
-  const { carts, totalNumbers} = useCartStore();
+  const { carts} = useCartStore();
 
   return (
     <div className="navbar">
@@ -47,7 +47,7 @@ const Header = () => {
                 borderRadius: "50%",
               }}
             >
-              {totalNumbers}
+              {carts.length}
             </Text>
           </Text>
         </Button>
