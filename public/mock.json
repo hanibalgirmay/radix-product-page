@@ -1,0 +1,28 @@
+{
+  "name": "Nike Shoe",
+  "description": "        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et quis quisquam commodi numquam reiciendis itaque eum, veniam unde, ipsum ex ut accusantium aspernatur adipisci qui ratione expedita quas eos dignissimos. Suscipit cupiditate sequi illum eos!",
+  "sizes": ["38", "39", "40", "41", "42"],
+  "price": 200,
+  "colors": ["blue", "green", "red", "yellow"],
+  "images": [
+    "/src/assets/product/photo-1542291026-7eec264c27ff.png",
+    "/src/assets/product/photo-1548801133-da353ebb1d97.png",
+    "/src/assets/product/photo-1600185365483-26d7a4cc7519.png",
+    "/src/assets/product/photo-1600185365778-7875a359b924.png",
+    "/src/assets/product/photo-1600185365926-3a2ce3cdb9eb.png"
+  ],
+  "features": [
+    "Padded laptop sleeve protects devices up to 16'",
+    "Full-length zip closure",
+    "Dual-section front pocket with internal organization",
+    "Rear document slip pocket with button closure",
+    "Internal vertical sleeve pockets for bottles/umbrellas",
+    "Stretch mesh zip pocket for valuables",
+    "Trolley/luggage pass-through",
+    "Soft-edge webbing handles with underside grip",
+    "Built-in key clip",
+    "Backed by our 3-year warranty",
+    "Main material: Baida Ripstop",
+    "Internal Apple AirTag slip pocket – find out more"
+  ]
+}
